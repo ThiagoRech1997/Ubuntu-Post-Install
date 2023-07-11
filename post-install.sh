@@ -19,6 +19,9 @@ sudo snap install android-studio --classic # Android Studio
 sudo snap install flutter --classic # Flutter
 sudo snap install insomnia # Insomnia change insomnia to postman if you prefer
 
+# Install apps to dev productivity
+sudo snap install notion-snap-reborn # Notion
+sudo snap install figma-linux # Figma
 
 # Install another apps with snap
 sudo snap install spotify
